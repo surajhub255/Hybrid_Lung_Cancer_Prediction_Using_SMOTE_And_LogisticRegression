@@ -1,0 +1,1 @@
+# Hybrid_Lung_Cancer_Prediction_Using_SMOTE_And_LogisticRegression
